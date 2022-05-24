@@ -39,11 +39,11 @@ If search traffic analysis of other companies is preffered:
 * Adjust any related labels
 
 The project will produce results similar to these:
-[Seasonality Analysis - Weekday vs Hourly Heatmap](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/wk-day_szn-htmp.png)
-[Seasonality Analysis - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/trends_szn.png)
-[Search Traffic Forecast - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/trends_forecast.png)
-[Prediction Confidence - Prophet Components](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/plot-components.png)
-[Final Revenue Forecast - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/forecast-layman.png)
+![Seasonality Analysis - Weekday vs Hourly Heatmap](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/wk-day_szn-htmp.png)
+![Seasonality Analysis - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/trends_szn.png)
+![Search Traffic Forecast - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/trends_forecast.png)
+![Prediction Confidence - Prophet Components](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/plot-components.png)
+![Final Revenue Forecast - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/forecast-layman.png)
 
 
 ## Contributors
