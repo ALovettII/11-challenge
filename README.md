@@ -1,5 +1,5 @@
 # 11-challenge
- Find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
+Find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
 
 
 ## Technologies
@@ -38,8 +38,13 @@ If search traffic analysis of other companies is preffered:
 * Ensure proper format compliance
 * Adjust any related labels
 
-If the project is run properly, it should result in the following:
-[]()
+The project will produce results similar to these:
+[Seasonality Analysis - Weekday vs Hourly Heatmap](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/wk-day_szn-htmp.png)
+[Seasonality Analysis - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/trends_szn.png)
+[Search Traffic Forecast - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/trends_forecast.png)
+[Prediction Confidence - Prophet Components](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/plot-components.png)
+[Final Revenue Forecast - Prophet](https://github.com/ALovettII/11-challenge/blob/main/screenshots_readme/forecast-layman.png)
+
 
 ## Contributors
 Created by Arthur Lovett
